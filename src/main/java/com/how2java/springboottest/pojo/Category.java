@@ -2,6 +2,7 @@ package com.how2java.springboottest.pojo;
 
 public class Category {
     private int id;
+
     private String name;
 
     public int getId() {
